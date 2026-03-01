@@ -6,9 +6,6 @@
 
 This tool helps researchers and clinicians extract 16+ quantitative biomarkers from the retinal capillary network to monitor diseases like Diabetic Retinopathy or Macular Ischemia.
 
-![App Screenshot](https://via.placeholder.com/800x400?text=Upload+Your+App+Screenshot+Here)
-*(Replace the link above with a screenshot of your app running)*
-
 ---
 
 ## ✨ Key Features
